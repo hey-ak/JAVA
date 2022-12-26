@@ -13,13 +13,14 @@ public static void main(String[] args) {
 //   }
 //   System.out.println("The sum is "+ sum);
 // Table of n;
- int n = sc.nextInt();
- System.out.println("The Table is :");
- for (int i = 1; i <=10; i++) {
-    int tb=n*i;
-    System.out.println(n+"x"+i+"="+tb);
+//  int n = sc.nextInt();
+//  System.out.println("The Table is :");
+//  for (int i = 1; i <=10; i++) {
+//     int tb=n*i;
+//     System.out.println(n+"x"+i+"="+tb);
     
- }
+//  }
+
 }
     
 }
