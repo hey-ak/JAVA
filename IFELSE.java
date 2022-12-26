@@ -27,12 +27,15 @@ class IFELSE {
 // }else{
 //     System.out.println("Odd");
 // }
-if (x==y) {
-    System.out.println("Equal");
+if (x>y) {
+    System.out.println("Greater");
     
 }
+else if(x==y){
+    System.out.println("Equal");
+}
 else{
-    System.out.println("Not Equal");
+    System.out.println("Less");
 }
 
 
