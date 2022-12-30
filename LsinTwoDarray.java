@@ -29,7 +29,7 @@ public class LsinTwoDarray {
                     System.out.println("Element Found at Index ("+i+","+j+")");
                     
                 }
-                
+            
             }
             
         }
