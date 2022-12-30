@@ -12,6 +12,8 @@ public class Sb {
     System.out.println(sb);
     sb.delete(2,4);
     System.out.println(sb);
+    sb.append("e");
+    System.out.println(sb);
 
 
 
